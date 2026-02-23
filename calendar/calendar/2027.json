@@ -1,0 +1,27 @@
+{
+  "2027": {
+    "January 2027": {
+      "January 14, 2027, Thursday": {
+        "event": "Makar Sankranti"
+      },
+      "January 26, 2027, Tuesday": {
+        "event": "Republic Day"
+      }
+    },
+    "March 2027": {
+      "March 27, 2027, Saturday": {
+        "event": "Holi"
+      }
+    },
+    "August 2027": {
+      "August 15, 2027, Sunday": {
+        "event": "Independence Day"
+      }
+    },
+    "October 2027": {
+      "October 30, 2027, Saturday": {
+        "event": "Diwali"
+      }
+    }
+  }
+}

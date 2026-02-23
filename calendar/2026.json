@@ -1,0 +1,35 @@
+{
+  "2026": {
+    "January 2026": {
+      "January 14, 2026, Wednesday": {
+        "event": "Makar Sankranti"
+      },
+      "January 26, 2026, Monday": {
+        "event": "Republic Day"
+      }
+    },
+    "March 2026": {
+      "March 20, 2026, Friday": {
+        "event": "Holi"
+      },
+      "March 26, 2026, Thursday": {
+        "event": "MahaShivratri"
+      }
+    },
+    "August 2026": {
+      "August 15, 2026, Saturday": {
+        "event": "Independence Day"
+      }
+    },
+    "September 2026": {
+      "September 12, 2026, Saturday": {
+        "event": "Sharad Navratri Begins"
+      }
+    },
+    "October 2026": {
+      "October 19, 2026, Monday": {
+        "event": "Diwali"
+      }
+    }
+  }
+}
